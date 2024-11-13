@@ -19,7 +19,7 @@
 - Четыре нейлоновые закруглённые гайки **M3** (используются как ножки)
 
 STL-модкли корпуса:
-- ***[Gryphon-MPI-Up.stl](Gryphon-MPI-Up.stl)*** - 3D-model of up housing cover
-- ***[Gryphon-MPI-Down.stl](Gryphon-MPI-Down.stl)*** - 3D-model of down housing cover
+- ***[Gryphon-MPI-Up.stl](Gryphon-MPI-Up.stl)*** - 3D-модель верхней крышки
+- ***[Gryphon-MPI-Down.stl](Gryphon-MPI-Down.stl)*** - 3D-модель нижней крышки
 
 *© prcoder, 2024*
